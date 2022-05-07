@@ -1,0 +1,5 @@
+堆内存 存储对象 异常错误展现方式不一样 没空间 java.lang.StackOverFlowError
+
+栈内存 存储局部变量和方法调用 没空间 java.lang.OutOfMemoryError
+
+

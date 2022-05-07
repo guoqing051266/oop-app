@@ -1,0 +1,167 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArrayListTest6",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListTest6",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListTest5",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListTest5",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListTest4",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListTest4",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo3",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListDemo3",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo2",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListDemo2",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo1",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListDemo1",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrIngExec7",
+            "request": "launch",
+            "mainClass": "String.StrIngExec7",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExec",
+            "request": "launch",
+            "mainClass": "String.StringExec",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExec8",
+            "request": "launch",
+            "mainClass": "String.StringExec8",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringAPIOtherDemo5",
+            "request": "launch",
+            "mainClass": "String.StringAPIOtherDemo5",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEqualsDemo4",
+            "request": "launch",
+            "mainClass": "String.StringEqualsDemo4",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo2",
+            "request": "launch",
+            "mainClass": "String.StringDemo2",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo1",
+            "request": "launch",
+            "mainClass": "String.StringDemo1",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "createobject.Test",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShopCarTest",
+            "request": "launch",
+            "mainClass": "javabean.ShopCarTest",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "javabean.Test",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "encapsulation.Test",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "thisdemo.Test",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "constructor.Test",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShopCarTest",
+            "request": "launch",
+            "mainClass": "demo.ShopCarTest",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShopCarTest",
+            "request": "launch",
+            "mainClass": "ShopCarTest",
+            "projectName": "oop-app_5e902669"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2",
+            "request": "launch",
+            "mainClass": "com.itheima.createobject.Test2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
